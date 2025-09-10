@@ -8,3 +8,5 @@ This is my repository for **MTEC-340: Programming Indie Game Sound**. Here are s
 - Learn a few different audio implementation techniques
 - Understand what monobehavior means 
 - Remember to put a semicolon at the end of each line of code 
+
+My favorite video game soundtrack is the [final boss fight from Banjo Kazooie](https://youtu.be/k89y_LZuSYU?feature=shared), by Grant Kirkhope. 
