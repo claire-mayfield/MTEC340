@@ -9,5 +9,5 @@ This is my repository for **MTEC-340: Programming Indie Game Sound**. This repos
 - Links to my favorite video game soundtracks (see below). 
 
 
-###My Favorite Video Game Soundtracks
+### My Favorite Video Game Soundtracks
 My favorite video game soundtrack is the [final boss fight from Banjo Kazooie](https://youtu.be/k89y_LZuSYU?feature=shared), by Grant Kirkhope. I also love the [Shrine Battle from Tears of the Kingdom](https://www.youtube.com/watch?v=pVoQZp0sxCY) by Manaka Kataoka. 
