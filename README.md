@@ -12,7 +12,7 @@ This is my repository for **MTEC-340: Programming Indie Game Sound**. This repos
 ![j](img/IsSet.png)
 
 ### Here's a screenshot of when the boolean flag is NOT set:
-
+![alt text](https://github.com/[claire-mayfield]/[MTEC340]/blob/[main]/IsSet.png?raw=true)
 
 ### My Favorite Video Game Soundtracks
 1. My favorite video game soundtrack is the [final boss fight from Banjo Kazooie](https://youtu.be/k89y_LZuSYU?feature=shared), by Grant Kirkhope. 
