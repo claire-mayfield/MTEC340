@@ -9,7 +9,7 @@ This is my repository for **MTEC-340: Programming Indie Game Sound**. This repos
 - Links to my favorite video game soundtracks (see below). 
 
 ### Here's a screenshot of when the boolean flag is set:
-![Click here to view](/Users/clairemayfield/Desktop/GitHub/MTEC340/IsSet.png)
+![Click here to view](img/IsSet.png)
 
 ### Here's a screenshot of when the boolean flag is NOT set:
 
